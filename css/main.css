@@ -1,0 +1,412 @@
+body{
+	/* font-family: "RalewayRegular", sans-serif; */
+	font-family: 'Segoe UI Light';
+	font-size: 16px;
+	min-width: 320px;
+	color: #696969;
+	overflow-x:hidden;
+
+}
+
+/* Logo Menu */
+nav{
+	height: 94px;
+	line-height: 80px;
+	z-index: 999;
+	position: absolute;
+	top: 20px;
+	left: 0;
+	width: 100%;
+}
+
+.menu{
+	list-style-type: none;
+	margin: 10px 0;
+	padding: 0;
+}
+
+.menu li{
+	display: inline-block;
+	padding: 0 ;
+}
+
+.menu li a{
+	color: black;
+	padding: 5px 20px;	
+	font-size: 1.5em;
+}
+.menu li a:hover, .menu li a:focus{
+	text-decoration: none;
+	background-color: #737373;
+	color: white;
+}
+
+.top_line{
+	position: absolute;
+	height: 1px;
+	background-color: #DCDCDC;
+	width: 100%;
+}
+
+.logo{
+	padding-top: 25px;
+}
+
+/*header*/
+
+.h{
+	padding: 140px 0 200px 0;
+	height: 50px;
+}
+
+.ipad{
+	padding-left: 20px
+}
+
+.apple{
+	color: #696969;
+	padding-top: 76px;
+}
+
+.apple h1{
+	font-size: 4em;
+	font-weight: none;
+	margin-bottom: 0;
+}
+
+.apple h2{
+	font-size: 3em;
+	margin: 0;
+	font-weight: none;
+}
+
+.apple i{
+	margin-top: 50px;
+	font-size: 24px;
+}
+
+.videorev{
+	font-size: 27px;
+	padding: 10px 15px;	
+	background-color:#737373;
+	color: #fffefe;
+	text-decoration: none;
+}
+
+.videorev a{
+	color: white;
+}
+.videorev a:hover, .videorev a:focus{
+    text-decoration: none;
+    color: #b8dc58;
+}
+
+.videorev a:visited{
+	color: white;
+}
+
+/* pre-info */
+
+.desktop{
+	background: radial-gradient(circle, #F5F5F5, #BEBEBE);
+	height:300px;
+	line-height: 300px;
+	text-align: center;
+	padding-left: 18px;
+}
+
+
+.simply{
+	color: #696969;
+	font-size: 1.3em;
+	text-align: justify;
+}
+
+.simply h1{
+	margin-top: 0px;
+	text-decoration: none;
+}
+
+.simply a:hover, .simply a:focus{
+    text-decoration: none;
+   	color: #696969;
+  }
+
+.simply a:visited{
+	color: #696969;
+}
+
+/* .angle1{
+	position: absolute;
+	height: 50px;
+	width: 40px;
+	background-color: #DB7093;
+	left: 80%;
+}
+
+.angle2{
+	position: absolue;
+	left: 88%;
+	height: 50px;
+	width: 40px;
+	background-color: #FFC0CB;
+} */
+
+.angle{
+	margin-right: 5px;
+	line-height: 50px;
+}
+
+.angle1, .angle2{
+
+	font-size: 2em;
+	text-align: center;
+	color: white;
+	height: 50px;
+	background-color:#737373; 
+}
+
+.angle2{
+	background-color: #737373;
+}
+
+.angle1 a:visited, .angle2 a:visited{
+	color: white;
+}
+
+.angle1:hover, .angle2:hover{
+	background-color:#323332;
+}
+
+/*strelka*/
+
+.angle11{
+	position: relative;
+	height: 25px;
+	width: 25px;
+	background-color: transparent;
+	border: 3px solid;
+	border-color: transparent transparent white white;
+	top: 30%;
+	transform: rotate(45deg) skew(10deg, 10deg) ;
+	left: -80%;
+
+}
+
+.angle21{
+	position: relative;
+	height: 25px;
+	width: 25px;
+	background-color: transparent;
+	border: 3px solid;
+	border-color: white white transparent transparent;
+	top: 30%;
+	transform: rotate(45deg) skew(10deg, 10deg) ;
+	left: -60%;
+}
+
+.advertisment{
+	position: relative;
+	text-align: center;
+	border: 1px solid #b1b0b0 ;
+	border-radius: 10px 10px;
+    height: 290px;
+}
+
+.advertisment h4{
+	margin: 0;
+}
+
+.advertisment span{
+	font-family: sans-serif;
+	color: 	#b8dc58;
+	font-weight: bold;
+	font-size: 2.3em;
+}
+
+.big{
+	position: absolute;
+	left: 20px;
+	top: 85px;
+}
+
+.sm{
+	position: absolute;
+	left: 105px;
+	top: 150px;
+}
+
+.css{
+	position: absolute;
+	left: 220px;
+	top: 220px;	
+}
+
+/*BODY*/
+
+.body{
+	margin-top: 20px;
+}
+
+.table1{
+	font-size: 1.2em;
+	text-align: justify;
+	margin-top: 30px;
+}
+
+.table1 h2{
+	margin: 0px;
+	text-align: left;
+}
+
+.table_data{
+	padding-top: 20px;
+}
+
+.forms
+{
+	height: 400px;
+	margin-top: 30px;
+	color: white;
+}
+
+.circle{
+	position: relative;
+	border: 3px solid #fff;
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-color: #DB7093;
+	left: 30%;
+	top: 8%;
+	z-index: 10;
+}
+
+/* FORMS */
+
+.rectangle{
+	position: relative;
+	width: 100%;
+	height: 290px;
+	background-color: #86e7f0;
+	z-index: 7;
+	top: -100px;
+	padding: 37% 7%;
+	text-align: center;
+}
+
+.l12{
+	font-size: 4.3em;
+	text-align: center;
+	font-weight: bold;
+	display: block;
+	position: absolute;
+	left: 12%;
+	font-family: sans-serif;
+}
+
+.week{
+	font-size: 1.3em;
+	text-transform: uppercase;
+	font-weight: bold;
+	display: block;
+	position: absolute;
+	text-align: center;
+	left: 27%;
+	top: 58%;
+}
+
+.r1{
+	font-size: 2.3em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.r2{
+	font-size: 1.4em;
+}
+
+.my_btn{
+	text-transform: uppercase;
+	border-radius: 7px;
+	width: 180px;
+	height: 30px;
+	background-color: #00CED1;
+	border: none;
+	font-size: 1.3em;
+	line-height: 30px;
+	margin-top: 10px;
+}
+
+.inputvalue{
+	background-color: #393a39;
+	height: 307px;
+	margin-top: -60px;
+	text-align: left;
+	color: white;
+	padding: 8%;
+	border-bottom: 7px solid #bb4465;
+}
+
+.m1{
+	text-transorm: uppercase;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.inp1, .inp2{
+	width: 100%;
+	border: none;
+	margin-top: 5%;
+	padding-left: 5%;
+	color: black;
+}
+
+
+.my_btn2{
+	text-transform: uppercase;
+	border-radius: 7px;
+	width: 160px;
+	height: 34px;
+	background-color:#bb4465;
+	border: none;
+	font-size: 1.3em;
+	line-height: 30px;
+	margin: 6% 18%;
+}
+
+
+/*FOOTER*/
+
+
+footer
+{
+	margin-top: 5%;
+	height: 100px;
+	width: 100%;
+	background-color: #393a39;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	font-size: 1.5em;
+	line-height: 100px;
+}
+
+footer a
+{
+	color: white;
+}
+
+footer a:hover, footer a:focus
+{
+    text-decoration: none;
+   	color: #7272af;
+}
+
+.foot{
+	font-size: 1.5em;
+	color: white;
+	position: relative;
+	left: 20%;
+	padding-right: 8px;
+}

@@ -1,0 +1,953 @@
+/*==================================================*/
+
+@media only screen and (max-width : 1196px) 
+{
+
+.css
+{
+  left: 165px;
+  top: 85px;
+}
+
+.angle21
+{
+  left: -10px;
+}
+
+/*------TABLE------*/
+
+.table1
+{
+  font-size: 0.9em;
+  margin-top: 30px;
+}
+
+.table1 h2
+{
+  font-size: 1.5em;
+}
+
+.table_data
+{
+  padding-top: 10px;
+}
+
+/*------- FORMS-------- */
+
+.forms
+{
+   background-color: white; 
+  height: 500px;
+}
+
+.rectangle
+{
+  top: -80px;
+  height: 270px;
+}
+
+.circle
+{
+  left: 30%;
+  width: 100px;
+  height: 100px;
+}
+
+.l12
+{
+  font-size: 3.3em;
+  left: 16%;
+
+}
+
+.week{
+  font-size: 1em;
+  left: 30%;
+  top: 65%;
+}
+
+.r1
+{
+  font-size: 1.9em;
+}
+
+.r2
+{
+  font-size: 1.1em;
+}
+
+.my_btn{
+  font-size: 1.2em;
+  line-height: 30px;
+  margin-top: 30px;
+}
+
+/*------------------------------------*/
+
+.my_btn2
+{
+  font-size: 1.2em;
+  margin: 8% 12%;
+}
+
+/*-----------FOOTER-----------*/
+
+.foot
+{
+  font-size: 1.3em;
+  left: 16.5%;
+}
+
+}
+
+/*==================================================*/
+
+@media only screen and (max-width : 873px) 
+{
+footer
+{
+  margin-top: 90%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+/*---------iPAD-------*/
+
+.apple
+{
+  padding-top: 16px;
+  width: 30%;
+}
+
+.apple h1
+{
+  font-size: 3em;
+}
+
+.apple h2
+{
+  font-size: 2.3em;
+
+}
+
+.apple i
+{
+  margin-top: 33px;
+  font-size: 20px;
+}
+
+.videorev
+{
+  font-size: 17px;
+  padding: 8px 15px;  
+}
+
+.ipdiv
+{
+  width: 70%;
+}
+
+/*---------PREINFO-------*/
+
+
+.simply h1
+{
+  text-align: center;
+
+}
+
+.preinf
+{
+  margin-top: 75px;
+}
+
+.preinf .advertisment
+{
+  margin: 10px;
+  border: 3px solid #b1b0b0;
+  height: 290px;
+  padding: 2%;
+}
+
+/*------- FORMS-------- */
+
+.rectangle
+{
+  padding: 15% 0%;
+}
+
+.circle
+{ 
+  width: 140px;
+  height: 140px;
+  left: 41%;
+}
+
+.l12
+{
+  font-size: 4em;
+  left: 20%;
+}
+
+.week
+{
+  font-size: 2em;
+  left: 22%;
+  top: 55%;
+}
+
+.r2
+{
+  font-size: 1.5em;
+}
+
+.my_btn{
+
+  font-size: 1.5em;
+  width: 60%;
+  height:40px;
+}
+
+/*---------------------------------------------*/
+
+.inputvalue{
+  height: 370px;
+  text-align: center;
+}
+
+.inputvalue h3
+{
+  font-size: 1.9em;
+  margin-top: -4%;
+}
+
+.inputvalue .m2
+{
+  font-size: 1.5em;
+}
+
+.inputvalue input
+{
+  font-size: 1.5em;
+}
+
+.inputvalue button
+{
+  font-size: 1.5em;
+  width: 60%;
+  margin-top: 20px;
+}
+
+
+
+
+.angle1, .angle2{
+  font-size: 1.5em;
+}
+
+.angle21{
+  left: 90%;
+}
+
+.angle11{
+  left: 5%;
+}
+
+.big{
+  left: 180px;
+}
+
+.sm{
+  left: 265px;
+}
+
+.css{
+  left: 445px;
+}
+
+.table1 h2{
+  font-weight: bold;
+}
+
+
+
+
+footer{
+  margin-top: 30%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+footer .foot{
+  left: 0px;
+}
+
+}
+
+
+/*==================================================*/
+
+
+/* Small Devices, Tablets */
+
+@media only screen and (max-width : 768px) {
+   	nav
+    {
+	  height: 60px;
+	  line-height: 60px;
+   }
+
+   	.top_line
+    {
+  	  display: none;
+   }
+
+    .logo
+    {
+   	  padding-top: 15px;
+   }
+
+    .menu_btn
+    {
+      margin-bottom: 21px;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background-color: #969595;
+      color: #fff;
+      top: 45px;
+      position: fixed;
+      margin-left: 87%;
+   }
+   .menu_btn span
+   {
+      top: -22px;
+      right: 3px;
+   }
+   #top_menu
+   {
+      background: white;
+   	  padding: 20px 0;
+      position: fixed;
+      width: 550px;
+      margin-left: 55%;
+   }
+
+   .menu li
+   {
+   	  display: block;
+   	  text-align: center;
+   }
+      .menu li a
+      {
+   	  display: block;
+   }
+
+/* h1*/
+
+.ipad
+{
+  padding-left: 0px;
+} 
+
+.apple
+{
+  padding-top: 0px;
+}
+
+.apple h1
+{
+  text-align: center;
+  font-size: 3em;
+}
+
+.apple h2{
+  text-align: center;
+  font-size: 2em;
+}
+
+.apple .videorev{
+  display: block;
+  position: absolute;
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 80%;
+  height: 45px;
+  font-size: 20px;
+}
+
+.apple .videorev i
+{
+  padding: 0;
+  margin: 0;
+}
+.videorev
+{
+  left: 12%;
+}
+
+.ip
+{
+  display: block;
+  position: absolute;
+  top: 90px;
+  width: 90%;
+}
+
+
+/*pre-info*/
+
+.simply h1
+{
+  text-align: center;
+}
+
+.preinf{
+  margin-top: 25%;
+}
+
+.preinf .desktop
+  {
+  background: radial-gradient(circle, #BEBEBE, #F5F5F5);
+}
+
+.preinf .simply{
+  margin-top: 30px;
+}
+
+.preinf .advertisment{
+  margin: 10px;
+  border: 3px solid #b1b0b0;
+  height: 290px;
+  padding: 5%;
+}
+
+.angle1, .angle2{
+  font-size: 1.5em;
+}
+
+.angle11{
+  left: 0%;
+}
+
+.big{
+  left: 100px;
+}
+
+.sm{
+  left: 200px;
+}
+
+.css
+{
+  left: 500px;
+  width: 100px;
+  height: 50px;
+  margin-top: -35px;
+}
+
+
+/*------------forms-------------*/
+
+.rectangle
+{
+  padding: 16% 7% 26% 7%;
+}
+
+
+.circle
+{
+  left: 41%;
+  top: 8%;
+}
+
+.my_btn2
+{
+  margin: 6% 2%;
+}
+
+.r1
+{
+  padding-top: 10px;
+}
+
+.r2
+{
+  margin-top: 10px;
+}
+
+.table1 h2
+{
+  font-weight: bold;
+}
+
+footer{
+  margin-top: 45%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+footer .foot{
+  left: 0px;
+  font-size: 20px;
+}
+
+.inputvalue{
+  height: 428px;
+  text-align: center;
+}
+
+.inputvalue h3{
+  font-size: 2em;
+  margin-top: -2%;
+}
+
+.inputvalue .m2{
+  font-size: 1.7em;
+}
+
+.inputvalue input{
+  font-size: 1.5em;
+}
+
+.inputvalue button{
+  font-size: 1.5em;
+  width: 60%;
+}
+
+}
+
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+   	nav
+    {
+	  height: 60px;
+	  line-height: 60px;
+   }
+
+   	.top_line
+    {
+  	  display: none;
+   }
+
+    .logo
+    {
+   	  padding-top: 15px;
+   }
+
+    .menu_btn
+    {
+      
+      margin-bottom: 21px;
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background-color: #969595;
+      color: #fff;
+      top: 45px;
+      position: fixed;
+      margin-left: 87%;
+   }
+
+   .menu_btn span
+   {
+      top: -22px;
+      left: -3.5px;
+   }
+
+   #top_menu{
+   	  padding: 20px 0;
+      background:  white;
+      position: fixed;
+      width: 200px;
+      margin-left: 50%;
+   }
+
+   .menu li
+   {
+   	  display: block;
+   	  text-align: center;
+   }
+      .menu li a
+      {
+   	  display: block;
+   }
+
+/*h1*/
+
+.ipad
+{
+  display:none;
+}
+
+.apple{
+  padding-top: -0px;
+}
+
+.apple h1
+{
+  text-align: center;
+  font-size: 2em;
+}
+
+.apple h2
+{
+  text-align: center;
+  font-size: 1em;
+}
+
+.apple .videorev{
+  display: block;
+  position: absolute;
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 80%;
+  height: 40px;
+  font-size: 10px;
+}
+
+.apple .videorev i{
+  padding: 0;
+  margin: 0;
+}
+
+
+.ip{
+  display: block;
+  position: absolute;
+  top: 90px;
+  width: 90%;
+}
+
+/*pre-info*/
+
+.simply h1{
+  text-align: center;
+}
+
+.preinf{
+  margin-top: -200px;
+}
+
+.preinf .desktop{
+  background: radial-gradient(circle, #BEBEBE, #F5F5F5);
+}
+
+.preinf .simply{
+  margin-top: 30px;
+}
+
+.preinf .advertisment{
+  margin: 10px;
+  border: 3px solid #b1b0b0;
+  height: 290px;
+  padding: 5%;
+}
+
+.angle1, .angle2{
+  font-size: 1.5em;
+}
+
+.angle11{
+  left: 0%;
+}
+
+
+.big
+{
+  left: 70px;
+}
+
+.sm
+{
+  left: 145px;
+}
+
+.css
+{
+  left: 320px;
+  width: 50px;
+  height: 30px; 
+}
+
+/*forms*/
+
+
+.circle
+{
+  width: 110px;
+  height: 110px;
+  left: 40%;
+}
+
+.l12
+{
+  font-size: 3.2em;
+}
+
+.week
+{
+  font-size: 1.2em;
+  margin-left: 9px;
+}
+
+.rectangle
+{
+  padding: 20% 0% 18% 5%;
+}
+
+.my_btn2
+{
+  margin: 6% 2%;
+}
+
+.table1 h2
+{
+  font-weight: bold;
+}
+
+footer{
+  margin-top: 44%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 1.0em;
+}
+
+footer .foot{
+  left: 0px;
+  font-size: 20px;
+}
+
+.inputvalue{
+  height: 350px;
+  text-align: center;
+}
+
+.inputvalue h3{
+  font-size: 1.5em;
+  margin-top: -2%;
+}
+
+.inputvalue .m2{
+  font-size: 1.2em;
+}
+
+.inputvalue input
+{
+  font-size: 1.2em;
+}
+
+.inputvalue button
+{
+
+  font-size: 1.1em;
+  width: 60%;
+}
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+   	nav{
+	  height: 60px;
+	  line-height: 60px;
+   }
+
+   	.top_line{
+  	  display: none;
+   }
+    .logo{
+   	  padding-top: 15px;
+   }
+    .menu_btn{
+      margin-bottom: 21px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: #969595;
+      color: #fff;
+      top: 15px;
+   }
+   .menu_btn span{
+      top: -16px;
+   }
+   #top_menu{
+    background:  white;
+   	  padding: 20px 0;
+   }
+
+   .menu li{
+   	  display: block;
+   	  text-align: center;
+   }
+      .menu li a{
+   	  display: block;
+   }
+
+   /* h1 */
+
+.ipad{
+  padding-left: 0px;
+}
+
+.apple{
+  padding-top: 0px;
+  }
+
+.apple h1{
+  text-align: center;
+  font-size: 3em;
+}
+
+.apple h2{
+  text-align: center;
+  font-size: 2em;
+}
+
+.apple .videorev{
+  display: block;
+  position: absolute;
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 50px;
+  width: 80%;
+  height: 45px;
+  font-size: 20px;
+}
+
+.apple .videorev i{
+  padding: 0;
+  margin: 0;
+}
+
+.ip{
+  display: block;
+  position: absolute;
+  top: 90px;
+  width: 90%;
+}
+
+.top_line{
+    height: 0px;
+}
+
+/*pre-info*/
+
+.simply h1{
+  text-align: center;
+}
+
+.preinf{
+  margin-top: 50%;
+}
+
+.preinf .desktop{
+  background: radial-gradient(circle, #BEBEBE, #F5F5F5);
+}
+
+.preinf .simply{
+  margin-top: 30px;
+}
+
+.preinf .advertisment{
+  margin: 10px;
+  border: 3px solid #b1b0b0;
+  height: 290px;
+  padding: 5%;
+}
+
+.angle1, .angle2{
+  font-size: 1.5em;
+}
+
+.angle11{
+  left: 0%;
+}
+
+
+.big{
+  left: 70px;
+}
+
+.sm{
+  left: 145px;
+}
+
+.css{
+  left: 250px;
+}
+
+/*forms*/
+.circle1{
+  left: 36%;
+}
+
+.circle{
+  left: 7%;
+  top: 8%;
+}
+
+.my_btn2{
+  margin: 6% 2%;
+}
+
+.table1 h2{
+  font-weight: bold;
+}
+
+footer{
+  margin-top: 93%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+footer .foot{
+  left: 0px;
+  font-size: 20px;
+}
+
+.inputvalue{
+  height: 450px;
+  text-align: center;
+}
+
+.inputvalue h3{
+  font-size: 2em;
+  margin-top: -2%;
+}
+
+.inputvalue .m2{
+  font-size: 1.7em;
+}
+
+.inputvalue input{
+  font-size: 1.5em;
+}
+
+.inputvalue button{
+  font-size: 1.5em;
+  width: 60%;
+}
+
+}
+
+
